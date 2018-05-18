@@ -133,11 +133,10 @@ https://gitee.com/free/Mybatis_Utils/blob/master/MybatisGeneator/MybatisGeneator
 
 ### 3.2.1 创建一个maven工程
 |-MBG
-|--src
-|--- main
-|--- test
-|--target
-|--pom.xml
+	|--src
+		|--- main
+		|--- test
+	|--pom.xml
 
 ### 3.2.2 加入依赖及相关的属性配置
 ```
