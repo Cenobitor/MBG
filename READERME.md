@@ -132,11 +132,11 @@ https://gitee.com/free/Mybatis_Utils/blob/master/MybatisGeneator/MybatisGeneator
 ## 3.2 配置项解释及搭建步骤
 
 ### 3.2.1 创建一个maven工程
-|-MBG
-	|--src
-		|--- main
-		|--- test
-	|--pom.xml
+|-MBG    
+|--src     
+|--- main    
+|--- test    
+|--pom.xml
 
 ### 3.2.2 加入依赖及相关的属性配置
 ```
